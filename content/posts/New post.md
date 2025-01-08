@@ -10,7 +10,9 @@ tags:
 # ==Testing!!!==
 
 
-## worrrrrrrrrk
+## Fuck yeh
+![Pasted image 20250108095917.png](/images/Pasted%20image%2020250108095917.png)
+
 
 this is new post
 
