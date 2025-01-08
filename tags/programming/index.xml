@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Programming on </title>
+    <link>https://blog.ramunasnognys.tech/tags/programming/</link>
+    <description>Recent content in Programming on </description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 08 Jan 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://blog.ramunasnognys.tech/tags/programming/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The AI Revolution in Software Development: A 2025 Perspective</title>
+      <link>https://blog.ramunasnognys.tech/posts/the-ai-revolution-in-software-development-a-2025-perspective/</link>
+      <pubDate>Wed, 08 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://blog.ramunasnognys.tech/posts/the-ai-revolution-in-software-development-a-2025-perspective/</guid>
+      <description>&lt;h1 id=&#34;the-ai-revolution-in-software-development-a-2025-perspective&#34;&gt;The AI Revolution in Software Development: A 2025 Perspective&lt;/h1&gt;&#xA;&lt;p&gt;The landscape of software development is undergoing a fundamental transformation. As we navigate through 2025, artificial intelligence isn&amp;rsquo;t just another tool in a developer&amp;rsquo;s toolkit—it&amp;rsquo;s reshaping the entire development ecosystem. This shift represents what systems theorists call a &lt;strong&gt;paradigm transition&lt;/strong&gt;: a moment when established patterns give way to new frameworks of understanding and operation.&lt;/p&gt;&#xA;&lt;h2 id=&#34;the-new-development-paradigm&#34;&gt;The New Development Paradigm&lt;/h2&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;&lt;strong&gt;AI-Enhanced Development&lt;/strong&gt;: A software creation approach that combines human creativity and strategic thinking with AI-powered automation and assistance to accelerate and improve the development process.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
