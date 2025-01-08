@@ -6,15 +6,8 @@
     <description>Recent content on </description>
     <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 08 Jan 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 07 Jan 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://blog.ramunasnognys.tech/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>The AI Revolution in Software Development: A 2025 Perspective</title>
-      <link>https://blog.ramunasnognys.tech/posts/the-ai-revolution-in-software-development-a-2025-perspective/</link>
-      <pubDate>Wed, 08 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>https://blog.ramunasnognys.tech/posts/the-ai-revolution-in-software-development-a-2025-perspective/</guid>
-      <description>&lt;p&gt;The landscape of software development is undergoing a fundamental transformation. As we navigate through 2025, artificial intelligence isn&amp;rsquo;t just another tool in a developer&amp;rsquo;s toolkit—it&amp;rsquo;s reshaping the entire development ecosystem. This shift represents what systems theorists call a &lt;strong&gt;paradigm transition&lt;/strong&gt;: a moment when established patterns give way to new frameworks of understanding and operation.&lt;/p&gt;&#xA;&lt;h2 id=&#34;the-new-development-paradigm&#34;&gt;The New Development Paradigm&lt;/h2&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;&lt;strong&gt;AI-Enhanced Development&lt;/strong&gt;: A software creation approach that combines human creativity and strategic thinking with AI-powered automation and assistance to accelerate and improve the development process.&lt;/p&gt;</description>
-    </item>
     <item>
       <title>Starting My Blog Journey in 2025: Building a Second Brain and Sharing What I Learn</title>
       <link>https://blog.ramunasnognys.tech/posts/my-insane-blog-post/</link>
@@ -23,11 +16,11 @@
       <description>&lt;p&gt;&lt;img src=&#34;https://blog.ramunasnognys.tech/images/Pasted%20image%2020250108062918.png&#34; alt=&#34;Pasted image 20250108062918.png&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://blog.ramunasnognys.tech/images/Pasted%20image%2020250108063711.png&#34; alt=&#34;Pasted image 20250108063711.png&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://blog.ramunasnognys.tech/images/Pasted%20image%2020250108064310.png&#34; alt=&#34;Pasted image 20250108064310.png&#34;&gt;&lt;/p&gt;&#xA;&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;&#xA;&lt;p&gt;After watching an inspiring video about starting a blog in 2024, I realized something profound: &amp;ldquo;my mind is for having ideas, not holding them.&amp;rdquo; This quote from Tiago Forte&amp;rsquo;s &amp;ldquo;Building a Second Brain&amp;rdquo; hit me hard. We&amp;rsquo;re drowning in information but starving for wisdom. That&amp;rsquo;s why I decided to start this blog—not just as another voice on the internet, but as a way to process, organize, and share my journey of learning and growth.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>New blog</title>
-      <link>https://blog.ramunasnognys.tech/posts/new-post-hmmmm/</link>
-      <pubDate>Wed, 06 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>https://blog.ramunasnognys.tech/posts/new-post-hmmmm/</guid>
-      <description>&lt;h1 id=&#34;testing&#34;&gt;==Testing!!!==&lt;/h1&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://blog.ramunasnognys.tech/images/Pasted%20image%2020250108101437.png&#34; alt=&#34;Pasted image 20250108101437.png&#34;&gt;&lt;/p&gt;&#xA;&lt;h2 id=&#34;fuck-yeh---whattttttt&#34;&gt;Fuck yeh   whattttttt&lt;/h2&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://blog.ramunasnognys.tech/images/Pasted%20image%2020250108095917.png&#34; alt=&#34;Pasted image 20250108095917.png&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;this is new post&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://blog.ramunasnognys.tech/images/Pasted%20image%2020250108091930.png&#34; alt=&#34;Pasted image 20250108091930.png&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;code&gt;robocopy &amp;quot;C:\Users\Ramunas\AnthropicFun\Second_Brain\posts&amp;quot; &amp;quot;C:\Users\Ramunas\AnthropicFun\ramasblog\content\posts&amp;quot; /mir&lt;/code&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;code&gt;python images.py&lt;/code&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;code&gt;git add .&lt;/code&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;code&gt;git commit -m &amp;quot;hey....my second blogpost&amp;quot;&lt;/code&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;code&gt;git push -u origin main&lt;/code&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;code&gt;git subtree split --prefix public -b hostinger-deploy&lt;/code&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;code&gt;git push origin hostinger-deploy:hostinger --force &lt;/code&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;code&gt;git branch -D hostinger-deploy&lt;/code&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;code&gt;hugo&lt;/code&gt;&lt;/p&gt;</description>
+      <title>Starting My Blog Journey in 2025: Building a Second Brain and Sharing What I Learn</title>
+      <link>https://blog.ramunasnognys.tech/posts/new/</link>
+      <pubDate>Tue, 07 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://blog.ramunasnognys.tech/posts/new/</guid>
+      <description></description>
     </item>
   </channel>
 </rss>
