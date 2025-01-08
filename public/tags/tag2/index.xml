@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tag2 on </title>
+    <link>https://blog.ramunasnognys.tech/tags/tag2/</link>
+    <description>Recent content in Tag2 on </description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 06 Nov 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://blog.ramunasnognys.tech/tags/tag2/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>just a test</title>
+      <link>https://blog.ramunasnognys.tech/posts/new-post/</link>
+      <pubDate>Wed, 06 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>https://blog.ramunasnognys.tech/posts/new-post/</guid>
+      <description>&lt;h1 id=&#34;testing&#34;&gt;==Testing!!!==&lt;/h1&gt;&#xA;&lt;p&gt;this is new post&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://blog.ramunasnognys.tech/images/Pasted%20image%2020250108091930.png&#34; alt=&#34;Pasted image 20250108091930.png&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;code&gt;robocopy &amp;quot;C:\Users\Ramunas\AnthropicFun\Second_Brain\posts&amp;quot; &amp;quot;C:\Users\Ramunas\AnthropicFun\ramasblog\content\posts&amp;quot; /mir&lt;/code&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;code&gt;python images.py&lt;/code&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;code&gt;git add .&lt;/code&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;code&gt;git commit -m &amp;quot;hey....my second blogpost&amp;quot;&lt;/code&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;code&gt;git push -u origin main&lt;/code&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;code&gt;git subtree split --prefix public -b hostinger-deploy&lt;/code&gt;&#xA;&lt;code&gt;git push origin hostinger-deploy:hostinger --force &lt;/code&gt;&#xA;&lt;code&gt;git branch -D hostinger-deploy&lt;/code&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;code&gt;hugo&lt;/code&gt;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
