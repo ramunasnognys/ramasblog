@@ -1,5 +1,5 @@
 ---
-title: "Starting My Blog Journey in 2025: Building a Second Brain and Sharing What I Learn"
+title: Starting My Blog Journey in 2025: Building a Second Brain and Sharing What I Learn
 date: 2025-01-07
 tags: [blog, second-brain, personal-growth, knowledge-management, new]
 status: draft
@@ -68,3 +68,4 @@ Ready to join me on this journey? I'll be sharing my setup process, learning exp
 - Include diagram of my blogging pipeline
 - Link to resources about Second Brain methodology
 - Share my Obsidian templates
+
