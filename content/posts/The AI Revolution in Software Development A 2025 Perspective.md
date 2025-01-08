@@ -26,8 +26,7 @@ aliases:
   - AI Dev Revolution 2025
   - Software Development AI Impact
 cssclass: tech-article
-created: 2025-01-08 09:00
-modified: 2025-01-08 09:00
+
 ---
 
 # The AI Revolution in Software Development: A 2025 Perspective
