@@ -6,8 +6,15 @@
     <description>Recent content on </description>
     <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 07 Jan 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 08 Jan 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://blog.ramunasnognys.tech/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hello World</title>
+      <link>https://blog.ramunasnognys.tech/posts/hello-world/</link>
+      <pubDate>Wed, 08 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://blog.ramunasnognys.tech/posts/hello-world/</guid>
+      <description>&lt;h2 id=&#34;this-is-a-subtitle&#34;&gt;This is a subtitle&lt;/h2&gt;&#xA;&lt;p&gt;Quisque ac maximus ligula, sed sagittis est. Integer venenatis pellentesque elit. Donec molestie turpis sit amet sodales cursus. Sed at risus cursus, feugiat lacus sit amet, rutrum sem. Vestibulum accumsan dui urna, vel feugiat lectus malesuada id. Quisque in interdum turpis, et pulvinar tortor. Vivamus tincidunt purus eu libero viverra, at posuere dolor gravida.&lt;/p&gt;&#xA;&lt;p&gt;Hello world&lt;a href=&#34;http://github.com/&#34;&gt;hello_world.py&lt;/a&gt;&lt;/p&gt;&#xA;&lt;table&gt;&#xA;  &lt;thead&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;th&gt;&lt;/th&gt;&#xA;          &lt;th&gt;&lt;/th&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/thead&gt;&#xA;  &lt;tbody&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;1  &lt;!-- raw HTML omitted --&gt;2&lt;/td&gt;&#xA;          &lt;td&gt;print &amp;ldquo;Hello World!&amp;rdquo;  &lt;!-- raw HTML omitted --&gt;=&amp;gt; &amp;ldquo;Hello World!&amp;rdquo;&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/tbody&gt;&#xA;&lt;/table&gt;&#xA;&lt;h2 id=&#34;httpsprobberechtsgithubiohexo-theme-cactuscactus-whitepublic20161114hello-worldthis-is-a-second-subtitle-this-is-a-second-subtitlethis-is-a-second-subtitle&#34;&gt;&lt;a href=&#34;https://probberechts.github.io/hexo-theme-cactus/cactus-white/public/2016/11/14/hello-world/#This-is-a-second-subtitle&#34; title=&#34;This is a second subtitle&#34;&gt;&lt;/a&gt;This is a second subtitle&lt;/h2&gt;&#xA;&lt;p&gt;Donec venenatis eu nunc non accumsan. Etiam elementum dapibus urna, ac mattis tortor volutpat a. Pellentesque eu purus metus. Curabitur vel nulla ut odio congue vulputate. Morbi lacinia tellus sit amet facilisis dictum. Nullam a erat felis. Vestibulum nec diam ac nisi pharetra tincidunt. Ut vitae ullamcorper ipsum. Sed vehicula vehicula dolor. Quisque ac tortor a neque scelerisque venenatis.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Starting My Blog Journey in 2025: Building a Second Brain and Sharing What I Learn</title>
       <link>https://blog.ramunasnognys.tech/posts/my-insane-blog-post/</link>
