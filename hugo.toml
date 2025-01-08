@@ -1,3 +1,5 @@
+baseURL = "https://blog.ramunasnognys.tech/"
+theme = "paper"
 
 [services]
   [services.disqus]
