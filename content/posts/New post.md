@@ -9,6 +9,9 @@ tags:
 
 # ==Testing!!!==
 
+
+## worrrrrrrrrk
+
 this is new post
 
 ![Pasted image 20250108091930.png](/images/Pasted%20image%2020250108091930.png)
@@ -24,7 +27,9 @@ this is new post
 ``git push -u origin main``
 
 ``git subtree split --prefix public -b hostinger-deploy``
+
 ``git push origin hostinger-deploy:hostinger --force ``
+
 ``git branch -D hostinger-deploy``
 
 ``hugo``
