@@ -19,8 +19,8 @@
 
   # home page profile
   avatar = 'GRAVATAR_EMAIL'                 # gravatar email or image url
-  name = 'YOUR_NAME'
-  bio = 'YOUR_BIO'
+  name = 'Ramunas Nognys'
+  bio = 'Dabartinis IT profesorius'
 
 
   # misc

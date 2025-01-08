@@ -1,11 +1,16 @@
 ---
-title: Starting My Blog Journey in 2025: Building a Second Brain and Sharing What I Learn
+title: "Starting My Blog Journey in 2025: Building a Second Brain and Sharing What I Learn"
 date: 2025-01-07
-tags: [blog, second-brain, personal-growth, knowledge-management]
+tags: [blog, second-brain, personal-growth, knowledge-management, new]
 status: draft
+draft: false
 ---
 
-# Starting My Blog Journey in 2025: Building a Second Brain and Sharing What I Learn
+![Pasted image 20250108062918.png](/images/Pasted%20image%2020250108062918.png)
+
+![Pasted image 20250108063711.png](/images/Pasted%20image%2020250108063711.png)
+
+![Pasted image 20250108064310.png](/images/Pasted%20image%2020250108064310.png)
 
 ## Introduction
 After watching an inspiring video about starting a blog in 2024, I realized something profound: "my mind is for having ideas, not holding them." This quote from Tiago Forte's "Building a Second Brain" hit me hard. We're drowning in information but starving for wisdom. That's why I decided to start this blog—not just as another voice on the internet, but as a way to process, organize, and share my journey of learning and growth.
