@@ -10,9 +10,9 @@
     <atom:link href="https://blog.ramunasnognys.tech/tags/tag2/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>just a test</title>
-      <link>https://blog.ramunasnognys.tech/posts/new-post/</link>
+      <link>https://blog.ramunasnognys.tech/posts/new-post-hmmmm/</link>
       <pubDate>Wed, 06 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>https://blog.ramunasnognys.tech/posts/new-post/</guid>
+      <guid>https://blog.ramunasnognys.tech/posts/new-post-hmmmm/</guid>
       <description>&lt;h1 id=&#34;testing&#34;&gt;==Testing!!!==&lt;/h1&gt;&#xA;&lt;h2 id=&#34;fuck-yeh&#34;&gt;Fuck yeh&lt;/h2&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://blog.ramunasnognys.tech/images/Pasted%20image%2020250108095917.png&#34; alt=&#34;Pasted image 20250108095917.png&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;this is new post&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://blog.ramunasnognys.tech/images/Pasted%20image%2020250108091930.png&#34; alt=&#34;Pasted image 20250108091930.png&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;code&gt;robocopy &amp;quot;C:\Users\Ramunas\AnthropicFun\Second_Brain\posts&amp;quot; &amp;quot;C:\Users\Ramunas\AnthropicFun\ramasblog\content\posts&amp;quot; /mir&lt;/code&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;code&gt;python images.py&lt;/code&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;code&gt;git add .&lt;/code&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;code&gt;git commit -m &amp;quot;hey....my second blogpost&amp;quot;&lt;/code&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;code&gt;git push -u origin main&lt;/code&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;code&gt;git subtree split --prefix public -b hostinger-deploy&lt;/code&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;code&gt;git push origin hostinger-deploy:hostinger --force &lt;/code&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;code&gt;git branch -D hostinger-deploy&lt;/code&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;code&gt;hugo&lt;/code&gt;&lt;/p&gt;</description>
     </item>
   </channel>
