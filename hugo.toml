@@ -22,7 +22,7 @@ theme = "paper"
   # home page profile
   avatar = 'GRAVATAR_EMAIL'                 # gravatar email or image url
   name = 'Ramunas Nognys'
-  bio = 'Dabartinis IT profesorius'
+  bio = 'Dabartinis IT Programuotojas'
 
 
   # misc

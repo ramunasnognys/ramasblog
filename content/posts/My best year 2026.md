@@ -1,5 +1,5 @@
 ---
-title: "my second post (updates)"
+title: "My best year 2026"
 date: 2025-01-07
 tags:
   - blog
@@ -9,7 +9,3 @@ tags:
   - new
 draft: false
 ---
-
-
-![Pasted image 20250108111916.png](/images/Pasted%20image%2020250108111916.png)
-
